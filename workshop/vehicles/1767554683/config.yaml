@@ -1,0 +1,3 @@
+# Use this in your UnturnedImages/config.yaml file
+- WorkshopId: "1767554683" # The ID of the override.
+  Repository: "https://cdn.jsdelivr.net/gh/SilKsPlugins/UnturnedIcons@images/modded/1767554683/vehicles/{VehicleId}.png" # The repository of the override.
